@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+}
+
+input {
+  width: 50%;
+}
+
+label {
+  display: block;
+}
+
+.heading {
+  color: red;
+}
